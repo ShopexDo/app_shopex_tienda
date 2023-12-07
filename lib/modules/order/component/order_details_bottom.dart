@@ -2,7 +2,7 @@ import 'package:dotted_line/dotted_line.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:seller_app/utils/utils.dart';
+import 'package:shopex_tienda/utils/utils.dart';
 
 import '/modules/order/controller/orders_cubit/orders_cubit.dart';
 import '../../../utils/constants.dart';

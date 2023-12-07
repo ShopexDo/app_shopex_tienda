@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:seller_app/utils/constants.dart';
+import 'package:shopex_tienda/utils/constants.dart';
 
 class MyCustomTheme {
   static final borderRadius = BorderRadius.circular(4.0);

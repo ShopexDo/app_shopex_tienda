@@ -1,4 +1,4 @@
-# seller_app
+# shopex_tienda
 
 A new Flutter project.
 

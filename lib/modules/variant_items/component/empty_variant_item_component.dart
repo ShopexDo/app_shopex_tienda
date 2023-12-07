@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:seller_app/modules/variant/model/single_variant_model/single_variant_model.dart';
+import 'package:shopex_tienda/modules/variant/model/single_variant_model/single_variant_model.dart';
 
 import '../../../core/routes/routes_names.dart';
 import '../../../utils/k_images.dart';

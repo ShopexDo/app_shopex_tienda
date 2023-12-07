@@ -49,7 +49,7 @@ class _PasswordChangeState extends State<PasswordChange> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                const Text('Change Your Credentials'),
+                const Text('Cambie sus credenciales'),
                 GestureDetector(
                   onTap: () {
                     Navigator.pop(context);
@@ -73,7 +73,7 @@ class _PasswordChangeState extends State<PasswordChange> {
                       // controller: passwordController,
 
                       decoration: InputDecoration(
-                          hintText: 'Password',
+                          hintText: 'Contraseña',
                           suffixIcon: IconButton(
                               splashRadius: 18.0,
                               onPressed: () =>
@@ -106,7 +106,7 @@ class _PasswordChangeState extends State<PasswordChange> {
                     TextFormField(
                       // controller: confirmPasswordController,
                       decoration: InputDecoration(
-                        hintText: 'Confirm Password',
+                        hintText: 'Confirmar Contraseña',
                         suffixIcon: IconButton(
                             splashRadius: 18.0,
                             onPressed: () => setState(
@@ -135,12 +135,11 @@ class _PasswordChangeState extends State<PasswordChange> {
               listener: (_, state) {},
               builder: (context, state) {
                 final pass = state.passwordState;
-                print(state.toString());
                 if (pass is PasswordChangeLoading) {
                   return const LoadingWidget();
                 }
                 return PrimaryButton(
-                  text: 'Change Password',
+                  text: 'Cambiar la Contraseña',
                   onPressed: () {
                     Utils.closeKeyBoard(context);
                     context.read<PasswordChangeCubit>().passwordChange();

@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/core/errors/failure.dart';
-import 'package:seller_app/utils/errors_model.dart';
+import 'package:shopex_tienda/core/errors/failure.dart';
+import 'package:shopex_tienda/utils/errors_model.dart';
 
 import '../../../authentication/login/login_bloc/login_bloc.dart';
 import '../../repository/seller_repository.dart';

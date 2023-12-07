@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/core/data_sources/remote_data_sources_packages.dart';
+import 'package:shopex_tienda/core/data_sources/remote_data_sources_packages.dart';
 
 import '/core/routes/routes_names.dart';
 import '/utils/constants.dart';

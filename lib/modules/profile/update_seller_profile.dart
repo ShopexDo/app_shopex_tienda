@@ -2,8 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/core/remote_urls.dart';
-import 'package:seller_app/modules/profile/model/country_model.dart';
+import 'package:shopex_tienda/core/remote_urls.dart';
+import 'package:shopex_tienda/modules/profile/model/country_model.dart';
 
 import '/utils/constants.dart';
 import '/utils/loading_widget.dart';

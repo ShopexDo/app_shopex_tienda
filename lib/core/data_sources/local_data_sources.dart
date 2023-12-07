@@ -1,4 +1,4 @@
-import 'package:seller_app/modules/authentication/login/model/user_response_model.dart';
+import 'package:shopex_tienda/modules/authentication/login/model/user_response_model.dart';
 
 import '/utils/k_string.dart';
 import 'package:shared_preferences/shared_preferences.dart';

@@ -2,8 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/modules/dashboard/model/seller_model/seller_model.dart';
-import 'package:seller_app/utils/constants.dart';
+import 'package:shopex_tienda/modules/dashboard/model/seller_model/seller_model.dart';
+import 'package:shopex_tienda/utils/constants.dart';
 
 import '../../utils/loading_widget.dart';
 import '../../utils/utils.dart';

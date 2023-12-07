@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/utils/constants.dart';
+import 'package:shopex_tienda/utils/constants.dart';
 
 import '../controller/country_state_city/country_state_city_cubit.dart';
 import '../controller/update_profile/update_profile_cubit.dart';

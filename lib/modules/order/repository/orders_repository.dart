@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:seller_app/modules/order/model/seller_all_order_model.dart';
+import 'package:shopex_tienda/modules/order/model/seller_all_order_model.dart';
 
 import '../../../core/data_sources/remote_data_sources.dart';
 import '../../../core/errors/exception.dart';

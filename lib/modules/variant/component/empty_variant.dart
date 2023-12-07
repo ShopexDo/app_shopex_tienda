@@ -2,10 +2,10 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/utils/language_string.dart';
-import 'package:seller_app/utils/utils.dart';
-import 'package:seller_app/widgets/custom_image.dart';
-import 'package:seller_app/widgets/error_text.dart';
+import 'package:shopex_tienda/utils/language_string.dart';
+import 'package:shopex_tienda/utils/utils.dart';
+import 'package:shopex_tienda/widgets/custom_image.dart';
+import 'package:shopex_tienda/widgets/error_text.dart';
 
 import '../../../core/dummy_data/dummy_data.dart';
 import '../../../utils/constants.dart';

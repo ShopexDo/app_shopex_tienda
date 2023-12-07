@@ -1,6 +1,6 @@
 {
-    "name": "seller_app",
-    "short_name": "seller_app",
+    "name": "shopex_tienda",
+    "short_name": "shopex_tienda",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:seller_app/modules/gallery/controller/get_gallery_cubit/get_all_gallery_cubit.dart';
+import 'package:shopex_tienda/modules/gallery/controller/get_gallery_cubit/get_all_gallery_cubit.dart';
 
 import '/core/routes/routes_names.dart';
 import '/modules/order/model/product_model.dart';

@@ -20,6 +20,8 @@ migrate_working_dir/
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
 #.vscode/
+#keytool -genkey -v -keystore key/upload-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias shopex_tienda
+#ShopexTienda@2023
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -42,3 +44,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+/.token

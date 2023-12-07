@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:seller_app/core/data_sources/remote_data_sources.dart';
-import 'package:seller_app/core/errors/exception.dart';
+import 'package:shopex_tienda/core/data_sources/remote_data_sources.dart';
+import 'package:shopex_tienda/core/errors/exception.dart';
 
 import '../../../core/errors/failure.dart';
 import '../../variant/model/single_variant_item_model/single_variant_item_model.dart';

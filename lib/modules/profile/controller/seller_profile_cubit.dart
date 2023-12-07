@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/modules/dashboard/model/today_model/user_model.dart';
+import 'package:shopex_tienda/modules/dashboard/model/today_model/user_model.dart';
 
 import '/modules/profile/model/seller_profile_model.dart';
 import '../../authentication/login/login_bloc/login_bloc.dart';

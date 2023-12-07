@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/modules/variant_items/controller/store_bloc/update_variant_item_state_model.dart';
+import 'package:shopex_tienda/modules/variant_items/controller/store_bloc/update_variant_item_state_model.dart';
 
 import '../../../../core/errors/failure.dart';
 import '../../../../utils/errors_model.dart';

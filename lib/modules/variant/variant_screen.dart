@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:seller_app/utils/utils.dart';
+import 'package:shopex_tienda/utils/utils.dart';
 
 import '/modules/variant/model/product_variant-model.dart';
 import '/utils/constants.dart';
